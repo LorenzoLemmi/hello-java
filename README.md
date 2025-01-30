@@ -1,18 +1,14 @@
-## Getting Started
+## hello-java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Oggi prima esercitazione Java
+Nome del repo: hello-java
+- fare il set up di JDK e IDE come abbiamo visto in classe e come indicato sulle slides
+- creare il primo progetto Java chiamato hello-java
+- aggiungere la classe StampaSaluto
+- aggiungere il metodo main a mano o sfruttando l’opzione nel wizard di creazione della classe
+- nel metodo main aggiungere l’espressione per stampare in console un messaggio di saluto
+Condividere il repo su GitHub, come visto in classe:
+- inizializzare git
+- creare il repo su GitHub col nome hello-java
+- aggiungere il repo remoto al repo locale
+- usare i comandi git add, git commit e git push per mandare in staging, committare e pushare
